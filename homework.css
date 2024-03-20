@@ -1,0 +1,30 @@
+.base{
+    background-color: black;
+    margin: 0 auto;
+}
+.box{
+    width: 650px;
+    height: 600px ;
+    
+    margin: auto;
+}
+.imag{
+    width: 650px;
+    height: 600px ;
+    object-fit: contain;
+}
+ 
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 120px;
+}
+p{
+    width: 400px;
+    color: aliceblue;
+    /* text-align: center; */
+    font-size: 40px;
+    margin: 200px;
+    border: gold 14px solid;
+
+}
